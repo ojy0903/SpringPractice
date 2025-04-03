@@ -78,7 +78,6 @@ public class ItemController {
         itemService.saveItem(book);
         return "redirect:/items";
     }
-
      */
 
     //Dirty Checking 을 활용한 item update
