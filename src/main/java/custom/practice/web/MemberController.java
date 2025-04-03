@@ -4,7 +4,6 @@ import custom.practice.domain.Address;
 import custom.practice.domain.Member;
 import custom.practice.service.MemberService;
 import jakarta.validation.Valid;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
